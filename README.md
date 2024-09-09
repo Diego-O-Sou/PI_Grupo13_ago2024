@@ -1,6 +1,6 @@
 # :page_with_curl: EducaPro :page_with_curl:
 
-### :computer::iphone: O EducaPro é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
+### :dart: Visão Geral: :computer::iphone: O EducaPro é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
 
 ### :man_student::woman_teacher: O EducaPro permite o cadastro de pessoas físicas e jurídicas, para incluir casos de empresas que contratam cursos para seus colaboradores, ou para funcionários contratados como pessoa jurídica.
 
@@ -50,26 +50,18 @@
 :page_with_curl:**Diagrama de casos de uso 2 - Aproveitamento dos Estudos**:
 ![Diagrama de casos de uso 2](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%202%20-%20Aproveitamento%20dos%20estudos.jpg)
 
- ### **Tela YYYYY** :
-![Tela YYYYY]()
-
- ### **Tela YYYYY** :
-![Tela YYYYY]()
+### :desktop_computer: Telas do Sistema
+Tela YYYYY: [Link para a imagem ou descrição da tela]
+Tela YYYYY: [Link para a imagem ou descrição da tela]
 
 
 
 
 
-
-### :genie: Desenvolvedores:
-[Aldrin Faustino Pereira](https://github.com/Aldrin-Faustino)
-
-[Bruna Martins Pinto](https://github.com/Bmpin)
-
-[Diego Oliveira Souza]()
-
-[Gustavo Gouvea Soares]()
-
-[Lucas Igor Grigio](https://github.com/lucasgrigio)
-
-[Thalía Emiliana Alves de Queiroz](https://github.com/thalivola)
+### :busts_in_silhouette: Desenvolvedores
+Aldrin Faustino Pereira.(https://github.com/Aldrin-Faustino).
+Bruna Martins Pinto.(https://github.com/Bmpin).
+Diego Oliveira Souza.(https://github.com/Diego-O-Sou).
+Gustavo Gouvea Soares
+Lucas Igor Grigio.(https://github.com/lucasgrigio).
+Thalía Emiliana Alves de Queiroz.(https://github.com/thalivola).
